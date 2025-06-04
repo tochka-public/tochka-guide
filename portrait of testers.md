@@ -3,11 +3,11 @@
 Портрет тестировщика — это список навыков, которыми нужно обладать специалисту для достижения определённого грейда. 
 Про процесс грейдирования в Точке можно почитать тут.
 
-* [Junior]()
-* [Middle]()
-* [Middle+]()
-* [Senior]()
-* [Senior+]()
+* [Junior](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20testers.md#junior)
+* [Middle](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20testers.md#middle)
+* [Middle+](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20testers.md#middle-1)
+* [Senior](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20testers.md#senior)
+* [Senior+](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20testers.md#senior-1)
 
 ### Как читать блоки:
 * «Что я делаю» — что ожидается от среднего по грейду.
@@ -187,7 +187,7 @@
 * Транслирую свои успешные и неуспешные кейсы в команды, публично рассказываю о своих успехах и неудачах.
 
 ### Что я использую в работе
-* [Идентично с грейдом Middle+]().
+* [Идентично с грейдом Middle+](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20testers.md#middle-1).
 
 ### С чем я хорошо справляюсь
 * Являюсь экспертом в своем стеке — ко мне обращаются за помощью не только тестировщики.
