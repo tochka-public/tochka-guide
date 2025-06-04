@@ -2,11 +2,11 @@
 Портреты нужны для оценки профессионального уровня инженеров — они делают развитие специалистов более прозрачным.
 
 **Портреты инженеров описаны по существующим в Точке грейдам:**
-* [Junior](https://github.com/tochka-public/tochka-guide/new/main#junior)
-* [Middle](https://github.com/tochka-public/tochka-guide/new/main#middle)
-* [Middle+](https://github.com/tochka-public/tochka-guide/new/main#middle+)
-* [Senior](https://github.com/tochka-public/tochka-guide/new/main#senior)
-* [Senior+](https://github.com/tochka-public/tochka-guide/new/main#senior+)
+* [Junior](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20engineers.md#junior)
+* [Middle](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20engineers.md#middle)
+* [Middle+](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20engineers.md#middle-1)
+* [Senior](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20engineers.md#senior)
+* [Senior+](https://github.com/tochka-public/tochka-guide/blob/main/portrait%20of%20engineers.md#senior-1)
 
 **Каждый уровень описан по блокам:**
 * Задачи.
